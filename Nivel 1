@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es"> 
+<head>
+	<meta charset="utf-8">
+	<title>Portafolio de Carolina Llorens</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/prueva.css">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+	
+</head>
+<body>
+	<section class="lateral">
+		<div class="perfil">
+			<figure class="perfil__circulo">
+				<img src="perfil.jpg" class="perfil__foto">
